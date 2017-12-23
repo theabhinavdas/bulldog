@@ -63,7 +63,7 @@ From the left column you can also choose to group tasks by context, or by next a
 
 ### Next Actions
 
-Todo.txt has no built-in concept of [Getting Things Done's](http://www.davidco.com/about-gtd) next actions. So we added it. Setting a task to priority `N` makes it a next action - after all, why would you be using that many priorities? Next actions are labeled as such and are considered higher priority than `A`.
+Todo.txt has no built-in concept of [Getting Things Done's](https://zenhabits.net/the-getting-things-done-gtd-faq/) next actions. So we added it. Setting a task to priority `N` makes it a next action - after all, why would you be using that many priorities? Next actions are labeled as such and are considered higher priority than `A`.
 
 The next actions tab - labeled &#x2794; - shows only your next actions, grouped by context.
 
@@ -84,7 +84,7 @@ All of the CSS and JavaScript is included inline so that no server is required.
 
 ## Contributions
 
-I welcome contributions and suggestions. Any code changes should include tests - naturally, using [Jasmine](http://pivotal.github.com/jasmine).
+I welcome contributions and suggestions. Any code changes should include tests - naturally, using [Jasmine](https://jasmine.github.io/).
 
 ## License
 
